@@ -869,6 +869,7 @@
     height: 1243px;
   }
   .home-text003 {
+    color: rgb(0, 0, 0);
     width: 1015px;
     height: 198px;
     font-size: 40px;
@@ -878,13 +879,18 @@
   .home-text004 {
     color: #ffffff;
   }
+  .home-text005 {
+    color: #ffffff;
+  }
   .home-text006 {
     color: #ffffff;
   }
   .home-text007 {
     color: #ffffff;
-    font-style: normal;
     font-family: Pattaya;
+  }
+  .home-text008 {
+    color: #ffffff;
   }
   .home-text009 {
     color: #ffffff;
@@ -1042,9 +1048,10 @@
     height: 1327px;
   }
   .home-text003 {
+    color: rgb(0, 0, 0);
     width: auto;
     height: 247px;
-    font-size: 33px;
+    font-size: 40px;
     font-style: normal;
     margin-top: 0px;
     font-weight: 700;
@@ -1052,25 +1059,22 @@
   }
   .home-text004 {
     color: #ffffff;
-    font-style: normal;
   }
   .home-text005 {
     color: #ffffff;
   }
   .home-text006 {
     color: #ffffff;
-    font-style: normal;
   }
   .home-text007 {
     color: #ffffff;
-    font-style: normal;
+    font-family: Pattaya;
   }
   .home-text008 {
     color: #ffffff;
   }
   .home-text009 {
     color: #ffffff;
-    font-style: normal;
   }
   .home-text010 {
     width: auto;
